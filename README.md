@@ -1,4 +1,4 @@
-.....hhh# streak-master-101
+nznz.....hhh# streak-master-101
 
 A project to track and maintain daily coding streaks.
 
